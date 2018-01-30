@@ -1,0 +1,2 @@
+# mzitu
+基于request和beautifulSoup的简单python3爬虫
